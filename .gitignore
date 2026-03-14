@@ -6,6 +6,7 @@ venv/
 instance/
 *.db
 *.sqlite
+.env
 serviceAccountKey.json
 *firebase-adminsdk-*.json
 
